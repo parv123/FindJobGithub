@@ -1,0 +1,9 @@
+# FindJobGithub
+CLONE THHE REPOSITARY, OPEN THE TERMINAL AND RUN THE FOLLOWING COMMANDS
+--> npm init
+--> node index.js
+GO TO "my-app" FOLDER, OPEN THE TERMINAL AND RUN THE FOLLOWING COMMAND
+--> npm start
+WAIT FOR THE MESSAGE "DEPLOYMENT SERVER STARTED"
+go to your browser and open localhost:3000
+
